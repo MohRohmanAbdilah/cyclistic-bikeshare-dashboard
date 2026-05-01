@@ -13,8 +13,8 @@ As a Business Intelligence Analyst, I performed a full-cycle BI analysis — fro
 ---
 
 ## Quick Links
-- 🔗 **SQL Query:** [View BigQuery SQL Script](link-to-your-sql-file)
-- 📊 **Interactive Dashboard:** [View on Tableau Public](link-to-your-tableau-dashboard)
+- 🔗 **SQL Query:** [View BigQuery SQL Script](cyclistic_query.sql)
+- 📊 **Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CyclisticBikeshareAnalysis_17769969566650/CyclisticBikeshareAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -32,7 +32,7 @@ Visualized in Tableau Public.
 Across **656,655 total trips**, Subscriber usage dominates at 91.4% (599,935 trips) while one-time Customers account for only 8.6% (56,720 trips) — a significant untapped conversion opportunity. Trip volume follows a strong seasonal pattern, peaking in August–October and dropping sharply in winter. Demand is heavily concentrated in Lower Manhattan, with the Lower East Side and Chelsea & Clinton consistently ranking as the highest-demand areas.
 
 **Dashboard Preview:**
-![Dashboard Preview](assets/dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png)
 
 ---
 
