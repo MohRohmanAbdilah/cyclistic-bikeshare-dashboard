@@ -44,9 +44,9 @@ Across **656,655 total trips**, Subscriber usage dominates at 91.4% (599,935 tri
 - **Borough Gap:** Manhattan dominates all trip activity; Brooklyn (max 11,730 trips per neighborhood) and Queens (4,163 trips) show significantly lower demand
 
 **Category 2: Seasonality**
-- **Peak Months:** August–October consistently record the highest volumes, with Grand Total reaching **47,893 trips in August** — the single highest month across both years
+- **Peak Months:** Demand increased steadily from May and reached its highest levels during August–October, with September 2020 recording **47,893 trips**, the highest monthly volume across the analysis period.
 - **Winter Decline:** January–February records the sharpest drops, falling to under 10,000 trips per month
-- **YoY Growth:** 2020 peak volumes exceed 2019, with September 2020 surpassing 40,000 Subscriber trips alone
+- **YoY Growth:** Total trips increased from 282,930 in 2019 to 373,725 in 2020, indicating stronger overall ridership across the second year of analysis.
 
 **Category 3: User Type Behavior**
 - **Subscriber Dominance:** 599,935 Subscriber trips vs. 56,720 Customer trips — a **10.6x difference**
@@ -62,7 +62,7 @@ Across **656,655 total trips**, Subscriber usage dominates at 91.4% (599,935 tri
 
 ## Recommendations
 - **New Station Placement:** Prioritize **Lower East Side** and **Chelsea & Clinton** for new stations — both rank #1 across trip count, trip starts, and trip minutes as destination
-- **Seasonal Operations:** Scale bike availability up in **July–October** and down in **December–February** to optimize operational costs
+- **Seasonal Operations:** Scale bike availability up in **May–October** and down in **December–February** to optimize operational costs
 - **Customer Conversion:** Launch summer loyalty programs targeting one-time Customers to drive subscription sign-ups during peak season, when the conversion opportunity is highest
 - **Weather Strategy:** Introduce dynamic promotions on rainy or cold days to stabilize trip volume during weather-impacted periods
 
