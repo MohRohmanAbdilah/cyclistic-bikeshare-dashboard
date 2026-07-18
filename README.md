@@ -2,7 +2,7 @@
 
 > **Business Intelligence Portfolio Project**
 >
-> Originally developed as part of the **Google Business Intelligence Professional Certificate**. This portfolio version has been independently enhanced through comprehensive SQL documentation, business-focused storytelling, interactive Tableau visualization, and actionable business recommendations while preserving the original business case.
+> Originally developed as part of the **Google Business Intelligence Professional Certificate** case study and independently expanded into a professional portfolio project. This portfolio version has been independently enhanced through comprehensive SQL documentation, business-focused storytelling, interactive Tableau visualization, and actionable business recommendations while preserving the original business case.
 
 ## Project Background
 
