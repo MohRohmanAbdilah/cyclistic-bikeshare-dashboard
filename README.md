@@ -1,6 +1,11 @@
 # Cyclistic Bikeshare Dashboard
 
+> **Business Intelligence Portfolio Project**
+>
+> Originally developed as part of the **Google Business Intelligence Professional Certificate**. This portfolio version has been independently enhanced through comprehensive SQL documentation, business-focused storytelling, interactive Tableau visualization, and actionable business recommendations while preserving the original business case.
+
 ## Project Background
+
 Cyclistic (Fictional Entity) is a bike-sharing company partnered with the City of New York, operating stations across Manhattan and neighboring boroughs. This project addresses a core business challenge: the Customer Growth Team lacks visibility into how customers use bikes across different locations and seasons, making it difficult to plan for new station expansion and targeted marketing.
 
 As a Business Intelligence Analyst, I performed a full-cycle BI analysis — from stakeholder requirements gathering to interactive dashboard development — to provide data-driven recommendations for Cyclistic's upcoming business plan.
