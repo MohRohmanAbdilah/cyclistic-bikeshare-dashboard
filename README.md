@@ -1,4 +1,4 @@
-# Cyclistic Bikeshare Dashboard
+# Bikeshare Station Expansion Analysis: 656K+ NYC Trips
 
 > **Business Intelligence Portfolio Project**
 >
