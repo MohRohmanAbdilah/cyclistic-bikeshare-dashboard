@@ -81,7 +81,7 @@ These findings provide actionable insights for operational planning, customer gr
 
 ---
 
-# Dashboard 1 — Geographic Demand Analysis
+# Geographic Demand Analysis
 
 ## Business Question
 
@@ -107,7 +107,7 @@ These findings provide actionable insights for operational planning, customer gr
 
 ---
 
-# Dashboard 2 — Seasonal Demand Analysis
+# Seasonal Demand Analysis
 
 ## Business Question
 
@@ -131,7 +131,7 @@ These findings provide actionable insights for operational planning, customer gr
 
 ---
 
-# Dashboard 3 — Expansion Opportunity
+# Expansion Opportunity
 
 ## Business Question
 
