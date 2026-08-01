@@ -26,7 +26,7 @@ As a **Business Intelligence Analyst**, I developed an end-to-end BI solution us
 # Quick Links
 
 - 🔗 **SQL Query:** [View BigQuery SQL Script](cyclistic_query.sql)
-- 📊 **Interactive Dashboard:** https://public.tableau.com/views/CyclisticBikeshareAnalysis_17769969566650/CyclisticBikeshareAnalysis
+- 📊 **Interactive Dashboard:** https://public.tableau.com/views/BikeshareStationExpansionAnalysis656KNYCTrips/CyclisticBikeshareAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
