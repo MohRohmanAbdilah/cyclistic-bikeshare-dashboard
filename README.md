@@ -1,5 +1,18 @@
 # Bikeshare Station Expansion Analysis: 656K+ NYC Trips
+# Data Structure
 
+The analysis integrates four datasets into a single analysis-ready table using Google BigQuery.
+
+| Table | Description |
+|-------|-------------|
+| Trips | Bike trip records including ride details, timestamps, and user type. |
+| ZIP Boundaries | Geographic polygons used for spatial mapping. |
+| ZIP Reference | ZIP code to neighborhood lookup table. |
+| Weather | Daily NOAA weather observations. |
+
+After data cleaning, spatial enrichment, and weather integration, the final dataset contained **656,655 bike trips** used throughout the analysis.
+
+*(Insert ER Diagram here if available.)*
 > **Business Intelligence Portfolio Project**
 >
 > Originally developed as part of the **Google Business Intelligence Professional Certificate** case study and independently expanded into a professional portfolio project. This portfolio version extends the original case study through comprehensive SQL documentation, business-focused storytelling, interactive Tableau dashboards, and actionable business recommendations while preserving the original business objective.
